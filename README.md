@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/J2436/shorturl.svg?branch=master)](https://travis-ci.com/J2436/shorturl)
 # shorturl
-URL Shortener Micro Service 
+URL Shortener Micro Service using Spring Boot and Redis 
 
 ## Running Service Locally w/ Docker-Compose
 - Build shorturl: mvn clean install
