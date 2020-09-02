@@ -2,7 +2,7 @@
 # shorturl
 URL Shortener Micro Service using Spring Boot and Redis containers 
 
-## Running Service w/ Docker-Compose
+## Running Service with Docker-Compose (requires Maven)
 - Build shorturl: mvn clean install
 - Build Dockerfile : docker-compose build
 - Launch Containers: docker-compose up
